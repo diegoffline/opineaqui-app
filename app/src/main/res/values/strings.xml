@@ -16,4 +16,6 @@
     <string name="email">Email</string>
     <string name="name">Nome</string>
     <string name="password">Senha</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="android_studio_android_com">android.studio@android.com</string>
 </resources>
